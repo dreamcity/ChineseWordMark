@@ -1,0 +1,48 @@
+case "a":    //    形容词 形语素
+case "b":    //    区别词 区别语素
+case "c":    //    连词 连语素
+case "d":    //    副词 副语素
+case "e":    //    叹词 叹语素
+case "f":    //    方位词 方位语素
+case "i":    //    成语
+case "l":    //    习语
+case "m":    //    数词 数语素
+case "mq":   //    数量词
+case "n":    //    名词 名语素
+case "o":    //    拟声词
+ case "p":    //    介词
+case "q":    //    量词 量语素
+case "r":    //    代词 代语素
+case "s":    //    处所词
+case "t":    //    时间词
+case "u":    //    助词 助语素
+case "v":    //    动词 动语素
+case "w":    //    标点符号
+case "x":    //    非语素字
+case "y":    //    语气词 语气语素
+case "z":    //    状态词
+case "nr"://    人名
+case "ns"://    地名
+case "nt"://    机构团体
+case "nx"://    外文字符
+case "nz"://    其他专名
+case "h":    //    前接成分
+case "k":    //    后接成分
+case "un"://  未知词性              
+            	
+case "ag":
+case "ad":
+case "an":
+case "vg":
+case "vn":
+case "vd":
+case "vv":
+case "dg":
+case "j":
+case "mg":
+case "rg":
+case "tg":
+case "yg":
+case "na":
+case "ng":
+case "bg":
